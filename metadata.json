@@ -1,0 +1,6 @@
+{
+  "name": "Drivers Park",
+  "description": "Next-Gen Driver Discovery & Operations Platform targeting mobile and web with PostGIS tracking, Aadhaar KYC, and Razorpay subscriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
