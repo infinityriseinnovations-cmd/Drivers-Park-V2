@@ -1,6 +1,7 @@
 {
   "name": "Drivers Park",
-  "description": "Next-Gen Driver Discovery & Operations Platform targeting mobile and web with PostGIS tracking, Aadhaar KYC, and Razorpay subscriptions.",
-  "requestFramePermissions": [],
+  "description": "Connecting vehicle owners and fleet companies with verified drivers and heavy machinery operators on a package-based commission model.",
+  "requestFramePermissions": ["geolocation"],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
+
